@@ -51,6 +51,74 @@ career-profile:
       I am a proficient systems administrator and technical manager with 
       multiple certifications, degrees, and twenty-one years of progressively 
       responsible IT experience. I have a reputation for honesty, teamwork, and integrity.
+
+certifications:
+    - acronym: MCITP
+      name: Microsoft Certified IT Professional
+      specialty: Server Administrator
+      time: April 2010
+      details: |
+        
+    - acronym: MCTS
+      name: Microsoft Certified Technology Specialist
+      specialty: Windows Server 2008 Network Infrastructure Configuration
+      time: February 2010
+      details: |
+
+    - acronym: MCTS
+      name: Microsoft Certified Technology Specialist
+      specialty: Windows Server 2008 Active Directory Configuration
+      time: November 2009
+      details: |
+
+    - acronym: 
+      name: CompTIA
+      specialty: Server+
+      time: August 2003
+      details: |
+
+    - acronym: MCSE
+      name: Microsoft Certified Systems Engineer
+      specialty: Windows 2000
+      time: December 2002
+      details: |
+
+    - acronym: MCSA
+      name: Microsoft Certified Systems Administrator
+      specialty: Windows 2000
+      time: May 2002
+      details: |
+
+    - acronym: CNA
+      name: Certified Novell Administrator
+      specialty: Netware 5.0
+      time: October 2000
+      details: |
+
+    - acronym: MCSE
+      name: Microsoft Certified Systems Engineer
+      specialty: Windows NT 4.0
+      time: September 2000
+      details: |
+
+    - acronym: 
+      name: CompTIA
+      specialty: Network+
+      time: July 2000
+      details: |
+
+    - acronym: MCP
+      name: Microsoft Certified Professional
+      specialty: Windows NT 4.0
+      time: June 2000
+      details: |
+
+    - acronym: 
+      name: CompTIA
+      specialty: A+
+      time: February 2000
+      details: |
+
 education:
     - degree: Bachelor of Science, Electronics Engineering Technology
       university: South Dakota State University
@@ -129,6 +197,7 @@ experiences:
         maintenance, and support of approximately 120 network printers.  
         Project leader for migration from Netware-based print queues to 
         TCP/IP-based print queues.
+
 projects:
     # title: Projects
     # intro: >

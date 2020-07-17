@@ -102,7 +102,7 @@ p {
         margin-top: 0;
         margin-bottom: 15px;
     }
-    .degree {
+    .degree, .cert-name {
         font-size: 14px;
         margin-top: 0;
         margin-bottom: 5px;
@@ -170,7 +170,7 @@ p {
         margin-bottom: 60px;
     }
 
-    .experiences-section, .educations-section {
+    .experiences-section, .educations-section, .certifications-section {
         .item {
             margin-bottom: 30px;
         }
@@ -180,7 +180,7 @@ p {
         overflow: hidden;
         margin-bottom: 2px;
     }
-    .job-title, .degree {
+    .job-title, .degree, .cert-name {
         color: $text-color;
         font-size: 16px;
         margin-top: 0;
@@ -193,7 +193,7 @@ p {
         top: 0;
         color: $text-grey;
     }
-    .company, .university {
+    .company, .university, .cert-specialty {
         margin-bottom: 10px;
         color: $text-grey;
     }
