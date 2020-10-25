@@ -131,8 +131,13 @@ education:
       details: |
         
 experiences:
+    - role: Apps Dev Sr Programmer Analyst
+      time: October 2020 - Present
+      company: Citi
+      details: |
+        Fraud Systems Support
     - role: Systems Engineer
-      time: February 2020 - Present
+      time: February 2020 - October 2020
       company: 1st Financial Bank USA
       details: |
         Infrastructure Systems Engineer and Administrator for large VMware
