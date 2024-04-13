@@ -57,98 +57,99 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a proficient systems administrator and technical manager with 
+      multiple certifications, degrees, and twenty-five years of progressively 
+      responsible IT experience. I have a reputation for honesty, teamwork, and integrity.
 
 education:
-    - degree: Bachelor of Science, Electronics Engineering Technology
-      university: South Dakota State University
-      time: 1997 - 1999, 2004
-      details: |
-        
-    - degree: Associate of Applied Science, Electronics Technology
-      university: Southeast Technical Institute
-      time: 1995 - 1997
-      details: |
+    title: Education
+    info:
+      - degree: Bachelor of Science, Electronics Engineering Technology
+        university: South Dakota State University
+        time: 1997 - 1999, 2004
+        details: |
+         
+      - degree: Associate of Applied Science, Electronics Technology
+        university: Southeast Technical Institute
+        time: 1995 - 1997
+        details: |
 
 experiences:
-    - role: Apps Dev Sr Programmer Analyst
-      time: October 2020 - Present
-      company: Citi
-      details: |
-        infrastructure maintenance and support of 80 servers for application 
-        development teams utilizing IIS, SQL databases, NDM, SSIS, Autosys 
-        and network load balancers
-    - role: Systems Engineer
-      time: February 2020 - October 2020
-      company: 1st Financial Bank USA
-      details: |
-        Infrastructure Systems Engineer and Administrator for large VMware
-        virtual environment and NetApp storage systems    
-    - role: Infrastructure Sr. Manager/Vice President
-      time: April 2012 - April 2019
-      company: Citigroup Chief Technology Office
-      details: |
-        Applications Support Manager for suite of infrastructure applications 
-        utilized worldwide.  The applications are built with numerous 
-        technologies including Microsoft SQL server, Internet Information 
-        Services, Active Directory, and Windows operating systems. Team 
-        Manager and Leader providing technical expertise for the suite of 
-        infrastructure applications, and leadership for the infrastructure 
-        support team and colleagues.
-    - role: Systems Administrator/Asst. Vice President
-      time: December 2009 - April 2012
-      company: Citigroup Technology Infrastructure
-      details: |
-        Maintenance and support of a large, load-balanced Citrix XenApp 
-        virtual computing environment, consisting of internal and external 
-        Wyse and Lenovo thin client devices, and remote access from numerous 
-        devices. Developed and compiled numerous scripts to automate routine 
-        Active Directory queries and tasks, including adding/removing user 
-        accounts from groups, exporting object memberships to Excel, and 
-        creating/deleting shared folders on Network Attached Servers (NAS).
-    - role: Systems Administrator/Senior Technical Analyst
-      time: September 2005 - December 2009
-      company: Citigroup Technology Infrastructure
-      details: |
-        Installation, maintenance, and support of approximately 100 Windows 
-        2000, XP, and Vista desktop and laptop computers.  Responsibilities 
-        included hardware installation and maintenance, Windows operating 
-        system installation and support, software installation and repair, 
-        hotfix deployments, anti-virus software updates, and 24x7 on-call 
-        support. Server installation, maintenance, and support of 3 Windows 
-        2000/2003 file, print, and anti-virus servers, and 2 Network Attached 
-        Storage devices.  Responsibilities included Windows operating system 
-        installation and support, hardware maintenance, hotfix deployments, 
-        and 24x7 on-call support.
-    - role: Network Administrator/Lead Analyst
-      time: December 2003 - September 2005
-      company: Citibank N.A.
-      details: |
-        Server installation, maintenance, and support of approximately 200 
-        Intel-based servers. Responsibilities included hardware installation, 
-        Windows operating system installation and maintenance, hotfix 
-        deployments, software installation and updates, hardware maintenance, 
-        and 24x7 on-call support. Project leader for internally developed 
-        web-based asset tracking software.  Responsible for leading and 
-        monitoring progress of 28 North American Citibank sites, including 
-        software installation, hotfix tracking, and software license 
-        reconciliation involving approximately 40,000 workstations.
-    - role: PC Technician/Analyst
-      time: May 1999 - December 2003
-      company: Citibank N.A.
-      details: |
-        SMS Administrator responsible for remote software installation and 
-        weekly anti-virus updates on approximately 1,500 workstations. 
-        Active Directory administrator responsible for the creation and 
-        deletion of users, groups, and permissions. Printer installation, 
-        maintenance, and support of approximately 120 network printers.  
-        Project leader for migration from Netware-based print queues to 
-        TCP/IP-based print queues.
+    title: Experiences
+    info:
+      - role: Apps Dev Sr Programmer Analyst
+        time: October 2020 - Present
+        company: Citi
+        details: |
+          infrastructure maintenance and support of 80 servers for application 
+          development teams utilizing IIS, SQL databases, NDM, SSIS, Autosys 
+          and network load balancers
+      - role: Systems Engineer
+        time: February 2020 - October 2020
+        company: 1st Financial Bank USA
+        details: |
+          Infrastructure Systems Engineer and Administrator for large VMware
+          virtual environment and NetApp storage systems    
+      - role: Infrastructure Sr. Manager/Vice President
+        time: April 2012 - April 2019
+        company: Citigroup Chief Technology Office
+        details: |
+          Applications Support Manager for suite of infrastructure applications 
+          utilized worldwide.  The applications are built with numerous 
+          technologies including Microsoft SQL server, Internet Information 
+          Services, Active Directory, and Windows operating systems. Team 
+          Manager and Leader providing technical expertise for the suite of 
+          infrastructure applications, and leadership for the infrastructure 
+          support team and colleagues.
+      - role: Systems Administrator/Asst. Vice President
+        time: December 2009 - April 2012
+        company: Citigroup Technology Infrastructure
+        details: |
+          Maintenance and support of a large, load-balanced Citrix XenApp 
+          virtual computing environment, consisting of internal and external 
+          Wyse and Lenovo thin client devices, and remote access from numerous 
+          devices. Developed and compiled numerous scripts to automate routine 
+          Active Directory queries and tasks, including adding/removing user 
+          accounts from groups, exporting object memberships to Excel, and 
+          creating/deleting shared folders on Network Attached Servers (NAS).
+      - role: Systems Administrator/Senior Technical Analyst
+        time: September 2005 - December 2009
+        company: Citigroup Technology Infrastructure
+        details: |
+          Installation, maintenance, and support of approximately 100 Windows 
+          2000, XP, and Vista desktop and laptop computers.  Responsibilities 
+          included hardware installation and maintenance, Windows operating 
+          system installation and support, software installation and repair, 
+          hotfix deployments, anti-virus software updates, and 24x7 on-call 
+          support. Server installation, maintenance, and support of 3 Windows 
+          2000/2003 file, print, and anti-virus servers, and 2 Network Attached 
+          Storage devices.  Responsibilities included Windows operating system 
+          installation and support, hardware maintenance, hotfix deployments, 
+          and 24x7 on-call support.
+      - role: Network Administrator/Lead Analyst
+        time: December 2003 - September 2005
+        company: Citibank N.A.
+        details: |
+          Server installation, maintenance, and support of approximately 200 
+          Intel-based servers. Responsibilities included hardware installation, 
+          Windows operating system installation and maintenance, hotfix 
+          deployments, software installation and updates, hardware maintenance, 
+          and 24x7 on-call support. Project leader for internally developed 
+          web-based asset tracking software.  Responsible for leading and 
+          monitoring progress of 28 North American Citibank sites, including 
+          software installation, hotfix tracking, and software license 
+          reconciliation involving approximately 40,000 workstations.
+      - role: PC Technician/Analyst
+        time: May 1999 - December 2003
+        company: Citibank N.A.
+        details: |
+          SMS Administrator responsible for remote software installation and 
+          weekly anti-virus updates on approximately 1,500 workstations. 
+          Active Directory administrator responsible for the creation and 
+          deletion of users, groups, and permissions. Printer installation, 
+          maintenance, and support of approximately 120 network printers.  
+          Project leader for migration from Netware-based print queues to 
+          TCP/IP-based print queues.
 
 certifications:
       title: Certifications
