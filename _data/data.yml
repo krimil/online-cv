@@ -4,55 +4,55 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: false # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Kristopher Millikan
+    tagline: This Is Water
+    avatar: profile100.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: me@krismillikan.com
+    phone: 
+    timezone: 
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: krismillikan.com #do not add http://
+    linkedin: kristopher-millikan
+    xing: 
+    github: krimil
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://krismillikan.com/assets/Resume_KrisMillikan.pdf
 
     languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
+      # title: Languages
+      # info:
+      #   - idiom: English
+      #     level: Native
 
-        - idiom: French
-          level: Professional
+      #   - idiom: French
+      #     level: Professional
 
-        - idiom: Spanish
-          level: Professional
+      #   - idiom: Spanish
+      #     level: Professional
 
     interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
+      # title: Interests
+      # info:
+      #   - item: Climbing
+      #     link:
 
-        - item: Snowboarding
-          link:
+      #   - item: Snowboarding
+      #     link:
 
-        - item: Cooking
-          link:
+      #   - item: Cooking
+      #     link:
 
 career-profile:
     title: Career Profile
@@ -63,203 +63,302 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
+
 education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+    - degree: Bachelor of Science, Electronics Engineering Technology
+      university: South Dakota State University
+      time: 1997 - 1999, 2004
+      details: |
+        
+    - degree: Associate of Applied Science, Electronics Technology
+      university: Southeast Technical Institute
+      time: 1995 - 1997
+      details: |
 
 experiences:
-    title: Experiences
-    info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+    - role: Apps Dev Sr Programmer Analyst
+      time: October 2020 - Present
+      company: Citi
+      details: |
+        infrastructure maintenance and support of 80 servers for application 
+        development teams utilizing IIS, SQL databases, NDM, SSIS, Autosys 
+        and network load balancers
+    - role: Systems Engineer
+      time: February 2020 - October 2020
+      company: 1st Financial Bank USA
+      details: |
+        Infrastructure Systems Engineer and Administrator for large VMware
+        virtual environment and NetApp storage systems    
+    - role: Infrastructure Sr. Manager/Vice President
+      time: April 2012 - April 2019
+      company: Citigroup Chief Technology Office
+      details: |
+        Applications Support Manager for suite of infrastructure applications 
+        utilized worldwide.  The applications are built with numerous 
+        technologies including Microsoft SQL server, Internet Information 
+        Services, Active Directory, and Windows operating systems. Team 
+        Manager and Leader providing technical expertise for the suite of 
+        infrastructure applications, and leadership for the infrastructure 
+        support team and colleagues.
+    - role: Systems Administrator/Asst. Vice President
+      time: December 2009 - April 2012
+      company: Citigroup Technology Infrastructure
+      details: |
+        Maintenance and support of a large, load-balanced Citrix XenApp 
+        virtual computing environment, consisting of internal and external 
+        Wyse and Lenovo thin client devices, and remote access from numerous 
+        devices. Developed and compiled numerous scripts to automate routine 
+        Active Directory queries and tasks, including adding/removing user 
+        accounts from groups, exporting object memberships to Excel, and 
+        creating/deleting shared folders on Network Attached Servers (NAS).
+    - role: Systems Administrator/Senior Technical Analyst
+      time: September 2005 - December 2009
+      company: Citigroup Technology Infrastructure
+      details: |
+        Installation, maintenance, and support of approximately 100 Windows 
+        2000, XP, and Vista desktop and laptop computers.  Responsibilities 
+        included hardware installation and maintenance, Windows operating 
+        system installation and support, software installation and repair, 
+        hotfix deployments, anti-virus software updates, and 24x7 on-call 
+        support. Server installation, maintenance, and support of 3 Windows 
+        2000/2003 file, print, and anti-virus servers, and 2 Network Attached 
+        Storage devices.  Responsibilities included Windows operating system 
+        installation and support, hardware maintenance, hotfix deployments, 
+        and 24x7 on-call support.
+    - role: Network Administrator/Lead Analyst
+      time: December 2003 - September 2005
+      company: Citibank N.A.
+      details: |
+        Server installation, maintenance, and support of approximately 200 
+        Intel-based servers. Responsibilities included hardware installation, 
+        Windows operating system installation and maintenance, hotfix 
+        deployments, software installation and updates, hardware maintenance, 
+        and 24x7 on-call support. Project leader for internally developed 
+        web-based asset tracking software.  Responsible for leading and 
+        monitoring progress of 28 North American Citibank sites, including 
+        software installation, hotfix tracking, and software license 
+        reconciliation involving approximately 40,000 workstations.
+    - role: PC Technician/Analyst
+      time: May 1999 - December 2003
+      company: Citibank N.A.
+      details: |
+        SMS Administrator responsible for remote software installation and 
+        weekly anti-virus updates on approximately 1,500 workstations. 
+        Active Directory administrator responsible for the creation and 
+        deletion of users, groups, and permissions. Printer installation, 
+        maintenance, and support of approximately 120 network printers.  
+        Project leader for migration from Netware-based print queues to 
+        TCP/IP-based print queues.
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+        # - name: CV Builder
+        #   start: 2020
+        #   end: 2021
+        #   organization: Microsoft
+        #   credentialid: 111-222
+        #   credentialurl: www.google.com
+        #   credentialname: Google
+        #   details: |
+        #     Details about cert. Lorem ipsum dolor sit amet, consectetur
+        #     adipiscing elit.
+        #     Nullam eget orci purus. Nullam ultrices neque nibh.
+        #     Aenean fermentum, felis vulputate suscipit accumsan,
+        #     sem enim bibendum augue, sed convallis arcu lacus at dui.
+        #     Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+        #     Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+        #     Praesent venenatis erat non augue suscipit consectetur.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
+        #     Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+        #     fringilla vel. Ut euismod, sem sed vulputate venenatis,
+        #     justo diam viverra velit, sed rhoncus leo leo eu justo.
+        #     Suspendisse placerat risus ante, sed porta nisi blandit at.
+        - name: Microsoft Certified IT Professional
+          start: April 2010
           end:
           organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+          credentialid: 
+          credentialurl: 
+          credentialname: MCITP
+          details: Server Administrator
 
+        - name: Microsoft Certified Technology Specialist
+          start: February 2010
+          end:
+          organization: Microsoft
+          credentialid: 
+          credentialurl: 
+          credentialname: MCTS
+          details: Windows Server 2008 Network Infrastructure Configuration
+
+        - name: Microsoft Certified Technology Specialist
+          start: November 2009
+          end:
+          organization: Microsoft
+          credentialid: 
+          credentialurl: 
+          credentialname: MCTS
+          details: Windows Server 2008 Active Directory Configuration
+
+        - name: Server+
+          start: August 2003
+          end:
+          organization: CompTIA
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: 
+          
+        - name: Microsoft Certified Systems Engineer
+          start: December 2002
+          end:
+          organization: Microsoft
+          credentialid: 
+          credentialurl: 
+          credentialname: MCSE
+          details: Windows 2000
+          
+        - name: Microsoft Certified Systems Administrator
+          start: May 2002
+          end:
+          organization: Microsoft
+          credentialid: 
+          credentialurl: 
+          credentialname: MCSA
+          details: Windows 2000
+          
+        - name: Certified Novell Administrator
+          start: October 2000
+          end:
+          organization: Novell
+          credentialid: 
+          credentialurl: 
+          credentialname: CNA
+          details: Netware 5.0
+          
+        - name: Microsoft Certified Systems Engineer
+          start: September 2000
+          end:
+          organization: Microsoft
+          credentialid: 
+          credentialurl: 
+          credentialname: MCSE
+          details: Windows NT 4.0
+          
+        - name: Network+
+          start: July 2000
+          end:
+          organization: CompTIA
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: 
+          
+        - name: Microsoft Certified Professional
+          start: June 2000
+          end:
+          organization: Microsoft
+          credentialid: 
+          credentialurl: 
+          credentialname: MCP
+          details: Windows NT 4.0
+          
+        - name: A+
+          start: February 2000
+          end:
+          organization: CompTIA
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: 
+          
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    # title: Projects
+    # intro: >
+    #   You can list your side projects in this
+    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    # assignments:
+    #   - title: Velocity
+    #     link: "#hook"
+    #     tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+    #   - title: DevStudio
+    #     link: "#"
+    #     tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    #   - title: Tempo
+    #     link: "#"
+    #     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    #   - title: Atom
+    #     link: "#"
+    #     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    #   - title: Delta
+    #     link: "#"
+    #     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    # title: OSS Contributions
+    # intro: >
+    #   You can list your open source software contributions in this
+    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    # contributions:
+    #   - title: Tempo
+    #     link: "#"
+    #     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    #   - title: Atom
+    #     link: "#"
+    #     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    #   - title: Delta
+    #     link: "#"
+    #     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+    # title: Publications
+    # intro: |
+    #   You can list your publications in this section. Lorem ipsum dolor sit
+    #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #   bibendum fringilla a eu lectus.
+    # papers:
+    #   - title: The Art of Computer Programming
+    #     link: "#"
+    #     authors: Donald E. Knuth
+    #     conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    #   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+    #     link: "#"
+    #     authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+    #     conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    #   - title: A syntax directed compiler for Algol 60
+    #     link: "#"
+    #     authors: Edgar T. Irons
+    #     conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Virtualization Technologies
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Docker Containers
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Docker Compose
+        level: 90%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 80%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Linux
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
