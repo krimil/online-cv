@@ -175,6 +175,15 @@ certifications:
         #     fringilla vel. Ut euismod, sem sed vulputate venenatis,
         #     justo diam viverra velit, sed rhoncus leo leo eu justo.
         #     Suspendisse placerat risus ante, sed porta nisi blandit at.
+        - name: Linux+
+          start: July 2024
+          end:
+          organization: CompTIA
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: 
+        
         - name: Microsoft Certified IT Professional
           start: April 2010
           end:
