@@ -351,24 +351,24 @@ publications:
     #     authors: Edgar T. Irons
     #     conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Skills &amp; Proficiency
+# skills:
+#     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Virtualization Technologies
-        level: 90%
+#     toolset:
+#       - name: Virtualization Technologies
+#         level: 90%
 
-      - name: Docker Containers
-        level: 90%
+#       - name: Docker Containers
+#         level: 90%
 
-      - name: Docker Compose
-        level: 90%
+#       - name: Docker Compose
+#         level: 90%
 
-      - name: HTML5 & CSS
-        level: 80%
+#       - name: HTML5 & CSS
+#         level: 80%
 
-      - name: Linux
-        level: 80%
+#       - name: Linux
+#         level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
